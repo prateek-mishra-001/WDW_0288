@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 4ea99fca00664482572d7b8fb965bd797c1a5c4c prateek-mishra-001 <prateek.ms.msihra@gmail.com> 1791088036 +0530	commit (initial): second file added
+4ea99fca00664482572d7b8fb965bd797c1a5c4c 0000000000000000000000000000000000000000 prateek-mishra-001 <prateek.ms.msihra@gmail.com> 1791088140 +0530	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 4ea99fca00664482572d7b8fb965bd797c1a5c4c prateek-mishra-001 <prateek.ms.msihra@gmail.com> 1791088140 +0530	Branch: renamed refs/heads/master to refs/heads/main
+4ea99fca00664482572d7b8fb965bd797c1a5c4c c5b516b49575512e8b4e8f6749f3f77cedabb429 prateek-mishra-001 <prateek.ms.msihra@gmail.com> 1791088890 +0530	pull --rebase origin main (start): checkout c5b516b49575512e8b4e8f6749f3f77cedabb429
+c5b516b49575512e8b4e8f6749f3f77cedabb429 eabf26156f52ae7273e08369c56746c51ca48826 prateek-mishra-001 <prateek.ms.msihra@gmail.com> 1791088890 +0530	pull --rebase origin main (pick): second file added
+eabf26156f52ae7273e08369c56746c51ca48826 eabf26156f52ae7273e08369c56746c51ca48826 prateek-mishra-001 <prateek.ms.msihra@gmail.com> 1791088890 +0530	pull --rebase origin main (finish): returning to refs/heads/main
