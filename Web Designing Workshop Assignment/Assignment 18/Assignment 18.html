@@ -1,12 +1,42 @@
 <html>
       <head>
         <title>Assignment 18</title>
+        <style>
+          #Head{
+            background-color:#1A237E;
+            padding: 5px 0px;
+          }
+          #Head h1{
+            color: white;
+          }
+          table{
+            font-size: 30px;
+          }
+          h2{
+            font-size: 25px;
+          }
+          form{
+            font-size:20px ;
+          }
+          footer{
+            font-size: 20px;
+            background-color: #1A237E;
+            padding: 5px 0px;
+          }
+          footer p{
+            color: white;
+          }
+          table tr th{
+            background-color: rgb(177, 182, 186);
+          }
+        </style>
       </head>
       <body>
         <div id="Head">
           <h1 align="center">ABC College Admission 2026</h1>
         </div>
         <h2>Courses and Fees</h2>
+        <br><br>
         <table border="1">
           <caption>Available Courses</caption>
           <tr>
@@ -25,7 +55,7 @@
             <td>₹45,000</td>
           </tr>
         </table>
-        <br><br>
+        <br><br><br>
         <form>
           <fieldset>
             <legend>Application Form</legend>
@@ -42,13 +72,16 @@
               <option value="cse">B.Tech</option>
               <option value="bca">BCA</option>
             </select>
-            <br><br> 
-              <button value="Submit">Apply</button>
+            <br>
+            <label for="">Statment:</label>
+            <textarea rows="5"></textarea>
+            <br>
+            <button value="Submit">Apply</button>
           </fieldset>
           <br><br>
-          <footer>
+        </form>
+        <footer>
             <p align="center">&copy; 2026 ABC College</p>
           </footer>
-        </form>
       </body>
 </html>
